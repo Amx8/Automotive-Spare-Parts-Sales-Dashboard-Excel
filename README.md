@@ -104,7 +104,7 @@ The dashboard includes:
 ```text
 Automotive-Spare-Parts-Sales-Dashboard-Excel/
 │
-├── final_project_cars.xlsx
-├── dashboard_screenshot.png
-├── report_screenshot.png
+├── Spare-Parts-Sales-Dashboard-Excel.xlsx
+├── Excel Dashboard.png
+├── Report.png
 └── README.md
